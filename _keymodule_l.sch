@@ -29,12 +29,12 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:mylib
-LIBS:Root-cache
+LIBS:KeyModule-L-cache
 EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 2 4
+Sheet 2 2
 Title ""
 Date ""
 Rev ""
@@ -1776,7 +1776,7 @@ U 1 1 57912809
 P 2700 5000
 F 0 "CONBUS1" H 2700 5350 50  0000 C CNN
 F 1 "CONN_01X06" V 2800 5000 50  0000 C CNN
-F 2 "" H 2700 5000 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_1x06" H 2700 5000 50  0001 C CNN
 F 3 "" H 2700 5000 50  0000 C CNN
 	1    2700 5000
 	1    0    0    -1  
@@ -1825,7 +1825,7 @@ U 1 1 579610DC
 P 3000 6650
 F 0 "J1" H 3200 7150 50  0000 C CNN
 F 1 "RJ45" H 2850 7150 50  0000 C CNN
-F 2 "" H 3000 6650 50  0000 C CNN
+F 2 "" H 3000 6650 50  0001 C CNN
 F 3 "" H 3000 6650 50  0000 C CNN
 	1    3000 6650
 	0    1    1    0   
