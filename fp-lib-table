@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name mx1a)(type Legacy)(uri /Users/cho45/Documents/KiCAD/lib/kicad-library-master/modules/mx1a.mod)(options "")(descr ""))
+)
