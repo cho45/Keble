@@ -1,0 +1,85 @@
+
+(rules PCB KeyModule-R
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout on)
+    (autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 500)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 1918)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 50.0)
+      (against_preferred_direction_trace_costs 100.0)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.0)
+    )
+  )
+  (rule
+    (width 500.0)
+    (clear 300.2)
+    (clear 250.0 (type smd_to_turn_gap))
+    (clear 75.0 (type smd_smd))
+  )
+  (padstack "Via[0-1]_1000:800_um"
+    (shape
+      (circle F.Cu 1000.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 1000.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_1000:800_um" "Via[0-1]_1000:800_um" default
+  )
+  (via 
+    "Via[0-1]_1000:800_um-kicad_default" "Via[0-1]_1000:800_um" "kicad_default"
+  )
+  (via_rule
+    default "Via[0-1]_1000:800_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_1000:800_um-kicad_default"
+  )
+  (class default
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 500.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    VDD SDA SCL RESET INT GND "Net-(D_41-Pad2)" "/KeyModule-R/COL4"
+    "Net-(D_R1-Pad2)" "/KeyModule-R/COL0" "Net-(D_R2-Pad2)" "Net-(D_R3-Pad2)" "Net-(D_R4-Pad2)" "Net-(D_R6-Pad2)" "Net-(D_R10-Pad2)" "/KeyModule-R/COL1"
+    "Net-(D_R11-Pad2)" "Net-(D_R12-Pad2)" "Net-(D_R13-Pad2)" "Net-(D_R14-Pad2)" "Net-(D_R15-Pad2)" "Net-(D_R16-Pad2)" "Net-(D_R20-Pad2)" "/KeyModule-R/COL2"
+    "Net-(D_R21-Pad2)" "Net-(D_R22-Pad2)" "Net-(D_R23-Pad2)" "Net-(D_R24-Pad2)" "Net-(D_R25-Pad2)" "Net-(D_R26-Pad2)" "Net-(D_R30-Pad2)" "/KeyModule-R/COL3"
+    "Net-(D_R31-Pad2)" "Net-(D_R32-Pad2)" "Net-(D_R33-Pad2)" "Net-(D_R34-Pad2)" "Net-(D_R40-Pad2)" "Net-(D_R42-Pad2)" "Net-(D_R43-Pad2)" "Net-(D_R44-Pad2)"
+    "Net-(D_R45-Pad2)" "Net-(D_R50-Pad2)" "/KeyModule-R/COL5" "Net-(D_R51-Pad2)" "Net-(D_R52-Pad2)" "Net-(D_R53-Pad2)" "Net-(D_R54-Pad2)" "Net-(D_R55-Pad2)"
+    "Net-(D_R60-Pad2)" "/KeyModule-R/COL6" "Net-(D_R61-Pad2)" "Net-(D_R62-Pad2)" "Net-(D_R63-Pad2)" "Net-(D_R64-Pad2)" "Net-(D_R65-Pad2)" "Net-(D_R70-Pad2)"
+    "/KeyModule-R/COL7" "Net-(D_R71-Pad2)" "Net-(D_R72-Pad2)" "Net-(D_R73-Pad2)" "Net-(D_R74-Pad2)" "Net-(D_R75-Pad2)" "/KeyModule-R/ROW4" "/KeyModule-R/ROW1"
+    "/KeyModule-R/ROW2" "/KeyModule-R/ROW3" "/KeyModule-R/ROW6" "/KeyModule-R/ROW0" "/KeyModule-R/ROW5" "Net-(U1-Pad8)" "Net-(U1-Pad11)" "Net-(U1-Pad14)"
+    "Net-(U1-Pad20)"
+    (clearance_class "kicad_default")
+    (via_rule kicad_default)
+    (rule
+      (width 500.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)

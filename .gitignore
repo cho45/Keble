@@ -19,3 +19,12 @@ _autosave-*
 *.xml
 *.csv
 
+
+*.gbr
+out*.png
+*.gcode
+*.ses
+*.dsn
+*.pdf
+*.dxf
+*.drl

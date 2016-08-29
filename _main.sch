@@ -34,7 +34,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 4 2
+Sheet 2 2
 Title ""
 Date ""
 Rev ""
@@ -148,7 +148,7 @@ L R R1
 U 1 1 579617F9
 P 3450 2450
 F 0 "R1" V 3530 2450 50  0000 C CNN
-F 1 "10" V 3450 2450 50  0000 C CNN
+F 1 "4.7k" V 3450 2450 50  0000 C CNN
 F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM7mm" V 3380 2450 50  0001 C CNN
 F 3 "" H 3450 2450 50  0000 C CNN
 	1    3450 2450
@@ -296,12 +296,12 @@ $EndComp
 $Comp
 L CONN_01X01 P_GND1
 U 1 1 579619D9
-P 1700 3600
-F 0 "P_GND1" H 1700 3700 50  0000 C CNN
-F 1 "CONN_01X01" V 1800 3600 50  0001 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_1x01" H 1700 3600 50  0001 C CNN
-F 3 "" H 1700 3600 50  0000 C CNN
-	1    1700 3600
+P 2450 3100
+F 0 "P_GND1" H 2450 3200 50  0000 C CNN
+F 1 "CONN_01X01" V 2550 3100 50  0001 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_1x01" H 2450 3100 50  0001 C CNN
+F 3 "" H 2450 3100 50  0000 C CNN
+	1    2450 3100
 	-1   0    0    1   
 $EndComp
 $Comp
@@ -330,7 +330,7 @@ Text Label 1900 3100 0    60   ~ 0
 SWCLK
 Text Label 1900 3350 0    60   ~ 0
 SWDIO
-Text Label 1900 3600 0    60   ~ 0
+Text Label 2650 3100 0    60   ~ 0
 GND
 Text Label 1900 3850 0    60   ~ 0
 TXD
@@ -389,4 +389,47 @@ Text GLabel 6300 4950 0    60   Input ~ 0
 RESET
 Text GLabel 6300 5050 0    60   Input ~ 0
 INT
+$Comp
+L SW_PUSH SW1
+U 1 1 57BF185A
+P 3700 1500
+F 0 "SW1" H 3850 1610 50  0000 C CNN
+F 1 "SW_RESET" H 3700 1420 50  0000 C CNN
+F 2 "Buttons_Switches_ThroughHole:SW_PUSH-12mm" H 3700 1500 50  0001 C CNN
+F 3 "" H 3700 1500 50  0000 C CNN
+	1    3700 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR015
+U 1 1 57BF197C
+P 3400 1700
+F 0 "#PWR015" H 3400 1450 50  0001 C CNN
+F 1 "GND" H 3400 1550 50  0000 C CNN
+F 2 "" H 3400 1700 50  0000 C CNN
+F 3 "" H 3400 1700 50  0000 C CNN
+	1    3400 1700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4400 2100 4050 2100
+Wire Wire Line
+	4050 2100 4050 1500
+Wire Wire Line
+	4050 1500 4000 1500
+Wire Wire Line
+	3400 1500 3400 1700
+$Comp
+L CONN_01X01 P_GND2
+U 1 1 57C199FB
+P 2350 3850
+F 0 "P_GND2" H 2350 3950 50  0000 C CNN
+F 1 "CONN_01X01" V 2450 3850 50  0001 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_1x01" H 2350 3850 50  0001 C CNN
+F 3 "" H 2350 3850 50  0000 C CNN
+	1    2350 3850
+	-1   0    0    1   
+$EndComp
+Text Label 2550 3850 0    60   ~ 0
+GND
 $EndSCHEMATC
