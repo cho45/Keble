@@ -1,0 +1,42 @@
+# Use standard mm
+metric=true
+metricoutput=1
+
+# front=
+back=keyboard-usb-B.Cu.gbr
+outline=keyboard-usb-Edge.Cuts.gbr
+drill=keyboard-usb.drl
+
+back-output=back.gcode
+outline-output=outline.gcode
+drill-output=drill.gcode
+
+# https://github.com/chrysn-pull-requests/pcb2gcode/blob/graphical-documentation/man/options.svg
+zwork=-0.1
+zsafe=1
+mill-feed=300
+mill-speed=10000
+mill-vertfeed=200
+offset=0.1267949192431123
+extra-passes=5
+
+# 使われないはず zcut が使用される
+zdrill=-0.9
+zchange=20
+drill-feed=100
+drill-speed=10000
+milldrill=true
+milldrill-diameter=0.8
+
+# 外形カット時のミル直径
+cutter-diameter=1
+# PCB板厚+0.1mm
+zcut=-1.8
+cut-feed=500
+cut-speed=10000
+cut-infeed=1
+cut-side=back
+
+optimise=true
+zero-start=true
+dpi=2000

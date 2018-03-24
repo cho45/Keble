@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:KeyModule-L-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors

@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:KeyModule-L-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,12 +30,12 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:mylib
-LIBS:Root-cache
+LIBS:KeyModule-L-cache
 EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 2 4
+Sheet 2 2
 Title ""
 Date ""
 Rev ""
@@ -45,14 +46,14 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MCP23017 U3
+L MCP23017-RESCUE-KeyModule-L U3
 U 1 1 5782C5A5
 P 2200 1750
 AR Path="/5782E0AD/5782C5A5" Ref="U3"  Part="1" 
 AR Path="/5783096D/5782C5A5" Ref="U2"  Part="1" 
 AR Path="/578B2796/5782C5A5" Ref="U2"  Part="1" 
 F 0 "U2" H 2150 850 60  0000 C CNN
-F 1 "MCP23017" H 2100 1750 60  0000 C CNN
+F 1 "MCP23017" H 2000 2750 60  0000 C CNN
 F 2 "Housings_DIP:DIP-28_W7.62mm_LongPads" H 2200 1750 60  0001 C CNN
 F 3 "" H 2200 1750 60  0000 C CNN
 	1    2200 1750
@@ -1951,7 +1952,7 @@ Wire Wire Line
 	1000 2050 1000 1850
 Connection ~ 1150 2050
 $Comp
-L Battery BT2
+L Battery-RESCUE-KeyModule-L BT2
 U 1 1 579CA117
 P 2000 8450
 F 0 "BT2" H 2100 8500 50  0000 L CNN
@@ -1962,7 +1963,7 @@ F 3 "" V 2000 8490 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Battery BT3
+L Battery-RESCUE-KeyModule-L BT3
 U 1 1 579CA6BC
 P 2000 8850
 F 0 "BT3" H 2100 8900 50  0000 L CNN

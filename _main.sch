@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:Main-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -133,7 +134,7 @@ NoConn ~ 5250 3300
 NoConn ~ 5350 3300
 NoConn ~ 5450 3300
 $Comp
-L LED D1
+L LED-RESCUE-Main D1
 U 1 1 579617F2
 P 3450 2950
 F 0 "D1" H 3450 3050 50  0000 C CNN
@@ -337,7 +338,7 @@ TXD
 Text Label 1900 4100 0    60   ~ 0
 RXD
 $Comp
-L Battery BT1
+L Battery-RESCUE-Main BT1
 U 1 1 57961B47
 P 2700 5200
 F 0 "BT1" H 2800 5250 50  0000 L CNN

@@ -1,0 +1,5342 @@
+<svg preserveAspectRatio="xMinYMin"
+			width="3840"
+			height="2160"
+			viewBox="0 0 16535 11693"
+			xmlns="http://www.w3.org/2000/svg" version="1.1"><path d="M393.7007874015748 393.7007874015748
+L393.7007874015748 11299.299212598426
+L16141.299212598426 11299.299212598426
+L16141.299212598426 393.7007874015748
+L393.7007874015748 393.7007874015748
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M472.4409448818898 472.4409448818898
+L472.4409448818898 11220.55905511811
+L16062.55905511811 11220.55905511811
+L16062.55905511811 472.4409448818898
+L472.4409448818898 472.4409448818898
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8267.5 393.7007874015748
+L8267.5 472.4409448818898
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8267.5 11220.55905511811
+L8267.5 11299.299212598426
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M393.7007874015748 5846.5
+L472.4409448818898 5846.5
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M16062.55905511811 5846.5
+L16141.299212598426 5846.5
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2200" y="1750"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2200, 1750)">U3</text><text x="2150" y="850"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2150, 850)">MCP23017</text><path d="M1800 800
+L1800 3050
+L2550 3050
+L2550 800
+L1800 800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1840" y="1000"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1840, 1000)">GPB0</text><text x="1700" y="1004"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1700, 1004)">GPB0</text><path d="M1800 1000
+L1600 1000
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1840" y="1150"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1840, 1150)">GPB1</text><text x="1700" y="1154"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1700, 1154)">GPB1</text><path d="M1800 1150
+L1600 1150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1840" y="1300"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1840, 1300)">GPB2</text><text x="1700" y="1304"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1700, 1304)">GPB2</text><path d="M1800 1300
+L1600 1300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1840" y="1450"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1840, 1450)">GPB3</text><text x="1700" y="1454"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1700, 1454)">GPB3</text><path d="M1800 1450
+L1600 1450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1840" y="1600"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1840, 1600)">GPB4</text><text x="1700" y="1604"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1700, 1604)">GPB4</text><path d="M1800 1600
+L1600 1600
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1840" y="1750"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1840, 1750)">GPB5</text><text x="1700" y="1754"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1700, 1754)">GPB5</text><path d="M1800 1750
+L1600 1750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1840" y="1900"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1840, 1900)">GPB6</text><text x="1700" y="1904"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1700, 1904)">GPB6</text><path d="M1800 1900
+L1600 1900
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1840" y="2050"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1840, 2050)">GPB7</text><text x="1700" y="2054"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1700, 2054)">GPB7</text><path d="M1800 2050
+L1600 2050
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1840" y="2200"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1840, 2200)">VDD</text><text x="1700" y="2204"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1700, 2204)">VDD</text><path d="M1800 2200
+L1600 2200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1840" y="2350"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1840, 2350)">VSS</text><text x="1700" y="2354"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1700, 2354)">VSS</text><path d="M1800 2350
+L1600 2350
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2510" y="2200"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2510, 2200)">INTA</text><text x="2650" y="2204"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2650, 2204)">INTA</text><path d="M2550 2200
+L2750 2200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1840" y="2500"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1840, 2500)">NC</text><text x="1700" y="2504"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1700, 2504)">NC</text><path d="M1800 2500
+L1600 2500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2510" y="2050"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2510, 2050)">GPA0</text><text x="2650" y="2054"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2650, 2054)">GPA0</text><path d="M2550 2050
+L2750 2050
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1840" y="2650"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1840, 2650)">SCL</text><text x="1700" y="2654"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1700, 2654)">SCL</text><path d="M1800 2650
+L1600 2650
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2510" y="1900"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2510, 1900)">GPA1</text><text x="2650" y="1904"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2650, 1904)">GPA1</text><path d="M2550 1900
+L2750 1900
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1840" y="2800"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1840, 2800)">SDA</text><text x="1700" y="2804"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1700, 2804)">SDA</text><path d="M1800 2800
+L1600 2800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2510" y="1750"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2510, 1750)">GPA2</text><text x="2650" y="1754"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2650, 1754)">GPA2</text><path d="M2550 1750
+L2750 1750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1840" y="2950"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1840, 2950)">NC</text><text x="1700" y="2954"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1700, 2954)">NC</text><path d="M1800 2950
+L1600 2950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2510" y="1600"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2510, 1600)">GPA3</text><text x="2650" y="1604"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2650, 1604)">GPA3</text><path d="M2550 1600
+L2750 1600
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2510" y="2950"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2510, 2950)">A0</text><text x="2650" y="2954"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2650, 2954)">A0</text><path d="M2550 2950
+L2750 2950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2510" y="1450"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2510, 1450)">GPA4</text><text x="2650" y="1454"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2650, 1454)">GPA4</text><path d="M2550 1450
+L2750 1450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2510" y="2800"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2510, 2800)">A1</text><text x="2650" y="2804"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2650, 2804)">A1</text><path d="M2550 2800
+L2750 2800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2510" y="1300"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2510, 1300)">GPA5</text><text x="2650" y="1304"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2650, 1304)">GPA5</text><path d="M2550 1300
+L2750 1300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2510" y="2650"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2510, 2650)">A2</text><text x="2650" y="2654"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2650, 2654)">A2</text><path d="M2550 2650
+L2750 2650
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2510" y="1150"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2510, 1150)">GPA6</text><text x="2650" y="1154"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2650, 1154)">GPA6</text><path d="M2550 1150
+L2750 1150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2510" y="2500"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2510, 2500)">RESET</text><text x="2650" y="2504"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2650, 2504)">RESET</text><path d="M2550 2500
+L2750 2500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2510" y="1000"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2510, 1000)">GPA7</text><text x="2650" y="1004"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2650, 1004)">GPA7</text><path d="M2550 1000
+L2750 1000
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2510" y="2350"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2510, 2350)">INTB</text><text x="2650" y="2354"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2650, 2354)">INTB</text><path d="M2550 2350
+L2750 2350
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1000" y="2000"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1000, 2000)">#PWR011</text><text x="1000" y="1700"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1000, 1700)">VDD</text><circle cx="1000" cy="1775" r="25"  style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1000 1850
+L1000 1800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="996" y="1850"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 996, 1850)">VDD</text><text x="1004" y="1850"
+				text-anchor="middle"
+				dominant-baseline="text-before-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 1004, 1850)">1</text><path d="M1000 1850
+L1000 1850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1000" y="2650"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1000, 2650)">#PWR012</text><text x="1000" y="2550"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1000, 2550)">GND</text><path d="M1000 2400
+L1000 2450
+L1050 2450
+L1000 2500
+L950 2450
+L1000 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="996" y="2400"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 996, 2400)">GND</text><text x="1004" y="2400"
+				text-anchor="middle"
+				dominant-baseline="text-before-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 1004, 2400)">1</text><path d="M1000 2400
+L1000 2400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1000 2350
+L1000 2400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1600 1000
+L1550 1000
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1600 1150
+L1550 1150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1600 1300
+L1550 1300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1600 1450
+L1550 1450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1600 1600
+L1550 1600
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1600 1750
+L1550 1750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1550" y="1000"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1550, 1000)">ROW0</text><text x="1550" y="1150"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1550, 1150)">ROW1</text><text x="1550" y="1300"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1550, 1300)">ROW2</text><text x="1550" y="1450"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1550, 1450)">ROW3</text><text x="1550" y="1600"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1550, 1600)">ROW4</text><text x="1550" y="1750"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1550, 1750)">ROW5</text><text x="2750" y="2050"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2750, 2050)">COL0</text><text x="2750" y="1900"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2750, 1900)">COL1</text><text x="2750" y="1750"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2750, 1750)">COL2</text><text x="2750" y="1600"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2750, 1600)">COL3</text><text x="2750" y="1450"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2750, 1450)">COL4</text><text x="2750" y="1300"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2750, 1300)">COL5</text><text x="2750" y="1150"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2750, 1150)">COL6</text><text x="2750" y="1000"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2750, 1000)">COL7</text><path d="M2750 2500
+L4050 2500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2900" y="3550"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2900, 3550)">#PWR013</text><text x="2900" y="3450"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2900, 3450)">GND</text><path d="M2900 3300
+L2900 3350
+L2950 3350
+L2900 3400
+L2850 3350
+L2900 3350
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2896" y="3300"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2896, 3300)">GND</text><text x="2904" y="3300"
+				text-anchor="middle"
+				dominant-baseline="text-before-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2904, 3300)">1</text><path d="M2900 3300
+L2900 3300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2900 2950
+L2900 3300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2750 2950
+L2900 2950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2750 2800
+L3200 2800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2750 2650
+L3500 2650
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2726 2176
+L2774 2224
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2774 2176
+L2726 2224
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="6950" y="2340"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6950, 2340)">SW_L?</text><text x="6800" y="2530"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 2530)">SW_PUSH</text><path d="M6630 2400
+L6630 2390
+L6970 2390
+L6970 2400
+L6630 2400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6760 2390
+L6770 2360
+L6830 2360
+L6840 2390
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6700 2450
+L6500 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6900 2450
+L7100 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="6800" y="2600"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 2600)">D?</text><text x="6800" y="2800"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 2800)">D</text><path d="M6750 2650
+L6750 2750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6850 2650
+L6750 2700
+L6850 2750
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6750 2700
+L6650 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6850 2700
+L6950 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="6950" y="1590"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6950, 1590)">SW_L?</text><text x="6800" y="1780"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 1780)">SW_PUSH</text><path d="M6630 1650
+L6630 1640
+L6970 1640
+L6970 1650
+L6630 1650
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6760 1640
+L6770 1610
+L6830 1610
+L6840 1640
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6700 1700
+L6500 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6900 1700
+L7100 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="6800" y="1850"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 1850)">D?</text><text x="6800" y="2050"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 2050)">D</text><path d="M6750 1900
+L6750 2000
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6850 1900
+L6750 1950
+L6850 2000
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6750 1950
+L6650 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6850 1950
+L6950 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="6950" y="3040"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6950, 3040)">SW_L?</text><text x="6800" y="3230"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 3230)">SW_PUSH</text><path d="M6630 3100
+L6630 3090
+L6970 3090
+L6970 3100
+L6630 3100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6760 3090
+L6770 3060
+L6830 3060
+L6840 3090
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6700 3150
+L6500 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6900 3150
+L7100 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="6800" y="3300"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 3300)">D?</text><text x="6800" y="3500"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 3500)">D</text><path d="M6750 3350
+L6750 3450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6850 3350
+L6750 3400
+L6850 3450
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6750 3400
+L6650 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6850 3400
+L6950 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="6950" y="4390"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6950, 4390)">SW_L?</text><text x="6800" y="4580"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 4580)">SW_PUSH</text><path d="M6630 4450
+L6630 4440
+L6970 4440
+L6970 4450
+L6630 4450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6760 4440
+L6770 4410
+L6830 4410
+L6840 4440
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6700 4500
+L6500 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6900 4500
+L7100 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="6800" y="4650"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 4650)">D?</text><text x="6800" y="4850"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 4850)">D</text><path d="M6750 4700
+L6750 4800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6850 4700
+L6750 4750
+L6850 4800
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6750 4750
+L6650 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6850 4750
+L6950 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="6950" y="3740"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6950, 3740)">SW_L?</text><text x="6800" y="3930"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 3930)">SW_PUSH</text><path d="M6630 3800
+L6630 3790
+L6970 3790
+L6970 3800
+L6630 3800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6760 3790
+L6770 3760
+L6830 3760
+L6840 3790
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6700 3850
+L6500 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6900 3850
+L7100 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="6800" y="4000"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 4000)">D?</text><text x="6800" y="4200"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 4200)">D</text><path d="M6750 4050
+L6750 4150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6850 4050
+L6750 4100
+L6850 4150
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6750 4100
+L6650 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6850 4100
+L6950 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="6950" y="5090"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6950, 5090)">SW_L?</text><text x="6800" y="5280"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 5280)">SW_PUSH</text><path d="M6630 5150
+L6630 5140
+L6970 5140
+L6970 5150
+L6630 5150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6760 5140
+L6770 5110
+L6830 5110
+L6840 5140
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6700 5200
+L6500 5200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6900 5200
+L7100 5200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="6800" y="5350"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 5350)">D?</text><text x="6800" y="5550"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6800, 5550)">D</text><path d="M6750 5400
+L6750 5500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6850 5400
+L6750 5450
+L6850 5500
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6750 5450
+L6650 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6850 5450
+L6950 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="8050" y="2340"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8050, 2340)">SW?</text><text x="7900" y="2530"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 2530)">SW_PUSH</text><path d="M7730 2400
+L7730 2390
+L8070 2390
+L8070 2400
+L7730 2400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7860 2390
+L7870 2360
+L7930 2360
+L7940 2390
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7800 2450
+L7600 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8000 2450
+L8200 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="7900" y="2600"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 2600)">D?</text><text x="7900" y="2800"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 2800)">D</text><path d="M7850 2650
+L7850 2750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7950 2650
+L7850 2700
+L7950 2750
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7850 2700
+L7750 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7950 2700
+L8050 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="8050" y="1590"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8050, 1590)">SW_L?</text><text x="7900" y="1780"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 1780)">SW_PUSH</text><path d="M7730 1650
+L7730 1640
+L8070 1640
+L8070 1650
+L7730 1650
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7860 1640
+L7870 1610
+L7930 1610
+L7940 1640
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7800 1700
+L7600 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8000 1700
+L8200 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="7900" y="1850"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 1850)">D?</text><text x="7900" y="2050"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 2050)">D</text><path d="M7850 1900
+L7850 2000
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7950 1900
+L7850 1950
+L7950 2000
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7850 1950
+L7750 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7950 1950
+L8050 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="8050" y="3040"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8050, 3040)">SW?</text><text x="7900" y="3230"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 3230)">SW_PUSH</text><path d="M7730 3100
+L7730 3090
+L8070 3090
+L8070 3100
+L7730 3100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7860 3090
+L7870 3060
+L7930 3060
+L7940 3090
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7800 3150
+L7600 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8000 3150
+L8200 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="7900" y="3300"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 3300)">D?</text><text x="7900" y="3500"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 3500)">D</text><path d="M7850 3350
+L7850 3450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7950 3350
+L7850 3400
+L7950 3450
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7850 3400
+L7750 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7950 3400
+L8050 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="8050" y="4390"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8050, 4390)">SW?</text><text x="7900" y="4580"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 4580)">SW_PUSH</text><path d="M7730 4450
+L7730 4440
+L8070 4440
+L8070 4450
+L7730 4450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7860 4440
+L7870 4410
+L7930 4410
+L7940 4440
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7800 4500
+L7600 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8000 4500
+L8200 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="7900" y="4650"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 4650)">D?</text><text x="7900" y="4850"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 4850)">D</text><path d="M7850 4700
+L7850 4800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7950 4700
+L7850 4750
+L7950 4800
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7850 4750
+L7750 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7950 4750
+L8050 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="8050" y="3740"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8050, 3740)">SW?</text><text x="7900" y="3930"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 3930)">SW_PUSH</text><path d="M7730 3800
+L7730 3790
+L8070 3790
+L8070 3800
+L7730 3800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7860 3790
+L7870 3760
+L7930 3760
+L7940 3790
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7800 3850
+L7600 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8000 3850
+L8200 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="7900" y="4000"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 4000)">D?</text><text x="7900" y="4200"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 4200)">D</text><path d="M7850 4050
+L7850 4150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7950 4050
+L7850 4100
+L7950 4150
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7850 4100
+L7750 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7950 4100
+L8050 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="8050" y="5090"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8050, 5090)">SW?</text><text x="7900" y="5280"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 5280)">SW_PUSH</text><path d="M7730 5150
+L7730 5140
+L8070 5140
+L8070 5150
+L7730 5150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7860 5140
+L7870 5110
+L7930 5110
+L7940 5140
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7800 5200
+L7600 5200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8000 5200
+L8200 5200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="7900" y="5350"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 5350)">D?</text><text x="7900" y="5550"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7900, 5550)">D</text><path d="M7850 5400
+L7850 5500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7950 5400
+L7850 5450
+L7950 5500
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7850 5450
+L7750 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7950 5450
+L8050 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="9100" y="2340"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 9100, 2340)">SW?</text><text x="8950" y="2530"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 2530)">SW_PUSH</text><path d="M8780 2400
+L8780 2390
+L9120 2390
+L9120 2400
+L8780 2400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8910 2390
+L8920 2360
+L8980 2360
+L8990 2390
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8850 2450
+L8650 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9050 2450
+L9250 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="8950" y="2600"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 2600)">D?</text><text x="8950" y="2800"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 2800)">D</text><path d="M8900 2650
+L8900 2750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9000 2650
+L8900 2700
+L9000 2750
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8900 2700
+L8800 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9000 2700
+L9100 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="9100" y="1590"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 9100, 1590)">SW_L?</text><text x="8950" y="1780"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 1780)">SW_PUSH</text><path d="M8780 1650
+L8780 1640
+L9120 1640
+L9120 1650
+L8780 1650
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8910 1640
+L8920 1610
+L8980 1610
+L8990 1640
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8850 1700
+L8650 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9050 1700
+L9250 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="8950" y="1850"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 1850)">D?</text><text x="8950" y="2050"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 2050)">D</text><path d="M8900 1900
+L8900 2000
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9000 1900
+L8900 1950
+L9000 2000
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8900 1950
+L8800 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9000 1950
+L9100 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="9100" y="3040"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 9100, 3040)">SW?</text><text x="8950" y="3230"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 3230)">SW_PUSH</text><path d="M8780 3100
+L8780 3090
+L9120 3090
+L9120 3100
+L8780 3100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8910 3090
+L8920 3060
+L8980 3060
+L8990 3090
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8850 3150
+L8650 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9050 3150
+L9250 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="8950" y="3300"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 3300)">D?</text><text x="8950" y="3500"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 3500)">D</text><path d="M8900 3350
+L8900 3450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9000 3350
+L8900 3400
+L9000 3450
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8900 3400
+L8800 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9000 3400
+L9100 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="9100" y="4390"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 9100, 4390)">SW?</text><text x="8950" y="4580"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 4580)">SW_PUSH</text><path d="M8780 4450
+L8780 4440
+L9120 4440
+L9120 4450
+L8780 4450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8910 4440
+L8920 4410
+L8980 4410
+L8990 4440
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8850 4500
+L8650 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9050 4500
+L9250 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="8950" y="4650"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 4650)">D?</text><text x="8950" y="4850"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 4850)">D</text><path d="M8900 4700
+L8900 4800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9000 4700
+L8900 4750
+L9000 4800
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8900 4750
+L8800 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9000 4750
+L9100 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="9100" y="3740"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 9100, 3740)">SW?</text><text x="8950" y="3930"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 3930)">SW_PUSH</text><path d="M8780 3800
+L8780 3790
+L9120 3790
+L9120 3800
+L8780 3800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8910 3790
+L8920 3760
+L8980 3760
+L8990 3790
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8850 3850
+L8650 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9050 3850
+L9250 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="8950" y="4000"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 4000)">D?</text><text x="8950" y="4200"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 4200)">D</text><path d="M8900 4050
+L8900 4150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9000 4050
+L8900 4100
+L9000 4150
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8900 4100
+L8800 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9000 4100
+L9100 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="9100" y="5090"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 9100, 5090)">SW?</text><text x="8950" y="5280"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 5280)">SW_PUSH</text><path d="M8780 5150
+L8780 5140
+L9120 5140
+L9120 5150
+L8780 5150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8910 5140
+L8920 5110
+L8980 5110
+L8990 5140
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8850 5200
+L8650 5200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9050 5200
+L9250 5200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="8950" y="5350"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 5350)">D?</text><text x="8950" y="5550"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8950, 5550)">D</text><path d="M8900 5400
+L8900 5500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9000 5400
+L8900 5450
+L9000 5500
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8900 5450
+L8800 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9000 5450
+L9100 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="10200" y="2340"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10200, 2340)">SW?</text><text x="10050" y="2530"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10050, 2530)">SW_PUSH</text><path d="M9880 2400
+L9880 2390
+L10220 2390
+L10220 2400
+L9880 2400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10010 2390
+L10020 2360
+L10080 2360
+L10090 2390
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9950 2450
+L9750 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10150 2450
+L10350 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="10050" y="2600"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10050, 2600)">D?</text><text x="10050" y="2800"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10050, 2800)">D</text><path d="M10000 2650
+L10000 2750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10100 2650
+L10000 2700
+L10100 2750
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10000 2700
+L9900 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10100 2700
+L10200 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="10200" y="1590"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10200, 1590)">SW_L?</text><text x="10050" y="1780"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10050, 1780)">SW_PUSH</text><path d="M9880 1650
+L9880 1640
+L10220 1640
+L10220 1650
+L9880 1650
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10010 1640
+L10020 1610
+L10080 1610
+L10090 1640
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9950 1700
+L9750 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10150 1700
+L10350 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="10050" y="1850"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10050, 1850)">D?</text><text x="10050" y="2050"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10050, 2050)">D</text><path d="M10000 1900
+L10000 2000
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10100 1900
+L10000 1950
+L10100 2000
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10000 1950
+L9900 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10100 1950
+L10200 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="10200" y="3040"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10200, 3040)">SW?</text><text x="10050" y="3230"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10050, 3230)">SW_PUSH</text><path d="M9880 3100
+L9880 3090
+L10220 3090
+L10220 3100
+L9880 3100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10010 3090
+L10020 3060
+L10080 3060
+L10090 3090
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9950 3150
+L9750 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10150 3150
+L10350 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="10050" y="3300"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10050, 3300)">D?</text><text x="10050" y="3500"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10050, 3500)">D</text><path d="M10000 3350
+L10000 3450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10100 3350
+L10000 3400
+L10100 3450
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10000 3400
+L9900 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10100 3400
+L10200 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="10200" y="4390"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10200, 4390)">SW?</text><text x="10050" y="4580"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10050, 4580)">SW_PUSH</text><path d="M9880 4450
+L9880 4440
+L10220 4440
+L10220 4450
+L9880 4450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10010 4440
+L10020 4410
+L10080 4410
+L10090 4440
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9950 4500
+L9750 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10150 4500
+L10350 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="10050" y="4650"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10050, 4650)">D?</text><text x="10050" y="4850"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10050, 4850)">D</text><path d="M10000 4700
+L10000 4800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10100 4700
+L10000 4750
+L10100 4800
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10000 4750
+L9900 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10100 4750
+L10200 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="10200" y="3740"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10200, 3740)">SW?</text><text x="10050" y="3930"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10050, 3930)">SW_PUSH</text><path d="M9880 3800
+L9880 3790
+L10220 3790
+L10220 3800
+L9880 3800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10010 3790
+L10020 3760
+L10080 3760
+L10090 3790
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9950 3850
+L9750 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10150 3850
+L10350 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="10050" y="4000"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10050, 4000)">D?</text><text x="10050" y="4200"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10050, 4200)">D</text><path d="M10000 4050
+L10000 4150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10100 4050
+L10000 4100
+L10100 4150
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10000 4100
+L9900 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10100 4100
+L10200 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="11250" y="2340"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11250, 2340)">SW?</text><text x="11100" y="2530"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11100, 2530)">SW_PUSH</text><path d="M10930 2400
+L10930 2390
+L11270 2390
+L11270 2400
+L10930 2400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11060 2390
+L11070 2360
+L11130 2360
+L11140 2390
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11000 2450
+L10800 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11200 2450
+L11400 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="11100" y="2600"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11100, 2600)">D?</text><text x="11100" y="2800"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11100, 2800)">D</text><path d="M11050 2650
+L11050 2750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11150 2650
+L11050 2700
+L11150 2750
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11050 2700
+L10950 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11150 2700
+L11250 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="11250" y="1590"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11250, 1590)">SW_L?</text><text x="11100" y="1780"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11100, 1780)">SW_PUSH</text><path d="M10930 1650
+L10930 1640
+L11270 1640
+L11270 1650
+L10930 1650
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11060 1640
+L11070 1610
+L11130 1610
+L11140 1640
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11000 1700
+L10800 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11200 1700
+L11400 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="11100" y="1850"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11100, 1850)">D?</text><text x="11100" y="2050"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11100, 2050)">D</text><path d="M11050 1900
+L11050 2000
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11150 1900
+L11050 1950
+L11150 2000
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11050 1950
+L10950 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11150 1950
+L11250 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="11250" y="3040"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11250, 3040)">SW?</text><text x="11100" y="3230"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11100, 3230)">SW_PUSH</text><path d="M10930 3100
+L10930 3090
+L11270 3090
+L11270 3100
+L10930 3100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11060 3090
+L11070 3060
+L11130 3060
+L11140 3090
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11000 3150
+L10800 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11200 3150
+L11400 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="11100" y="3300"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11100, 3300)">D?</text><text x="11100" y="3500"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11100, 3500)">D</text><path d="M11050 3350
+L11050 3450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11150 3350
+L11050 3400
+L11150 3450
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11050 3400
+L10950 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11150 3400
+L11250 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="11250" y="4390"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11250, 4390)">SW?</text><text x="11100" y="4580"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11100, 4580)">SW_PUSH</text><path d="M10930 4450
+L10930 4440
+L11270 4440
+L11270 4450
+L10930 4450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11060 4440
+L11070 4410
+L11130 4410
+L11140 4440
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11000 4500
+L10800 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11200 4500
+L11400 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="11100" y="4650"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11100, 4650)">D?</text><text x="11100" y="4850"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11100, 4850)">D</text><path d="M11050 4700
+L11050 4800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11150 4700
+L11050 4750
+L11150 4800
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11050 4750
+L10950 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11150 4750
+L11250 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="11250" y="3740"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11250, 3740)">SW?</text><text x="11100" y="3930"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11100, 3930)">SW_PUSH</text><path d="M10930 3800
+L10930 3790
+L11270 3790
+L11270 3800
+L10930 3800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11060 3790
+L11070 3760
+L11130 3760
+L11140 3790
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11000 3850
+L10800 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11200 3850
+L11400 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="11100" y="4000"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11100, 4000)">D?</text><text x="11100" y="4200"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11100, 4200)">D</text><path d="M11050 4050
+L11050 4150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11150 4050
+L11050 4100
+L11150 4150
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11050 4100
+L10950 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11150 4100
+L11250 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="12350" y="2340"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12350, 2340)">SW?</text><text x="12200" y="2530"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 2530)">SW_PUSH</text><path d="M12030 2400
+L12030 2390
+L12370 2390
+L12370 2400
+L12030 2400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12160 2390
+L12170 2360
+L12230 2360
+L12240 2390
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12100 2450
+L11900 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12300 2450
+L12500 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="12200" y="2600"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 2600)">D?</text><text x="12200" y="2800"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 2800)">D</text><path d="M12150 2650
+L12150 2750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12250 2650
+L12150 2700
+L12250 2750
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12150 2700
+L12050 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12250 2700
+L12350 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="12350" y="1590"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12350, 1590)">SW_L?</text><text x="12200" y="1780"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 1780)">SW_PUSH</text><path d="M12030 1650
+L12030 1640
+L12370 1640
+L12370 1650
+L12030 1650
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12160 1640
+L12170 1610
+L12230 1610
+L12240 1640
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12100 1700
+L11900 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12300 1700
+L12500 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="12200" y="1850"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 1850)">D?</text><text x="12200" y="2050"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 2050)">D</text><path d="M12150 1900
+L12150 2000
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12250 1900
+L12150 1950
+L12250 2000
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12150 1950
+L12050 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12250 1950
+L12350 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="12350" y="3040"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12350, 3040)">SW?</text><text x="12200" y="3230"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 3230)">SW_PUSH</text><path d="M12030 3100
+L12030 3090
+L12370 3090
+L12370 3100
+L12030 3100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12160 3090
+L12170 3060
+L12230 3060
+L12240 3090
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12100 3150
+L11900 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12300 3150
+L12500 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="12200" y="3300"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 3300)">D?</text><text x="12200" y="3500"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 3500)">D</text><path d="M12150 3350
+L12150 3450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12250 3350
+L12150 3400
+L12250 3450
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12150 3400
+L12050 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12250 3400
+L12350 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="12350" y="4390"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12350, 4390)">SW?</text><text x="12200" y="4580"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 4580)">SW_PUSH</text><path d="M12030 4450
+L12030 4440
+L12370 4440
+L12370 4450
+L12030 4450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12160 4440
+L12170 4410
+L12230 4410
+L12240 4440
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12100 4500
+L11900 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12300 4500
+L12500 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="12200" y="4650"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 4650)">D?</text><text x="12200" y="4850"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 4850)">D</text><path d="M12150 4700
+L12150 4800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12250 4700
+L12150 4750
+L12250 4800
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12150 4750
+L12050 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12250 4750
+L12350 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="12350" y="3740"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12350, 3740)">SW?</text><text x="12200" y="3930"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 3930)">SW_PUSH</text><path d="M12030 3800
+L12030 3790
+L12370 3790
+L12370 3800
+L12030 3800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12160 3790
+L12170 3760
+L12230 3760
+L12240 3790
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12100 3850
+L11900 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12300 3850
+L12500 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="12200" y="4000"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 4000)">D?</text><text x="12200" y="4200"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 4200)">D</text><path d="M12150 4050
+L12150 4150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12250 4050
+L12150 4100
+L12250 4150
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12150 4100
+L12050 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12250 4100
+L12350 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="12350" y="5090"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12350, 5090)">SW?</text><text x="12200" y="5280"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 5280)">SW_PUSH</text><path d="M12030 5150
+L12030 5140
+L12370 5140
+L12370 5150
+L12030 5150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12160 5140
+L12170 5110
+L12230 5110
+L12240 5140
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12100 5200
+L11900 5200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12300 5200
+L12500 5200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="12200" y="5350"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 5350)">D?</text><text x="12200" y="5550"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12200, 5550)">D</text><path d="M12150 5400
+L12150 5500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12250 5400
+L12150 5450
+L12250 5500
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12150 5450
+L12050 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12250 5450
+L12350 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="13400" y="2340"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13400, 2340)">SW?</text><text x="13250" y="2530"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13250, 2530)">SW_PUSH</text><path d="M13080 2400
+L13080 2390
+L13420 2390
+L13420 2400
+L13080 2400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13210 2390
+L13220 2360
+L13280 2360
+L13290 2390
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13150 2450
+L12950 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13350 2450
+L13550 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="13250" y="2600"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13250, 2600)">D?</text><text x="13250" y="2800"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13250, 2800)">D</text><path d="M13200 2650
+L13200 2750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13300 2650
+L13200 2700
+L13300 2750
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13200 2700
+L13100 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13300 2700
+L13400 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="13400" y="1590"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13400, 1590)">SW_L?</text><text x="13250" y="1780"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13250, 1780)">SW_PUSH</text><path d="M13080 1650
+L13080 1640
+L13420 1640
+L13420 1650
+L13080 1650
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13210 1640
+L13220 1610
+L13280 1610
+L13290 1640
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13150 1700
+L12950 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13350 1700
+L13550 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="13250" y="1850"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13250, 1850)">D?</text><text x="13250" y="2050"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13250, 2050)">D</text><path d="M13200 1900
+L13200 2000
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13300 1900
+L13200 1950
+L13300 2000
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13200 1950
+L13100 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13300 1950
+L13400 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="13400" y="3040"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13400, 3040)">SW?</text><text x="13250" y="3230"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13250, 3230)">SW_PUSH</text><path d="M13080 3100
+L13080 3090
+L13420 3090
+L13420 3100
+L13080 3100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13210 3090
+L13220 3060
+L13280 3060
+L13290 3090
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13150 3150
+L12950 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13350 3150
+L13550 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="13250" y="3300"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13250, 3300)">D?</text><text x="13250" y="3500"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13250, 3500)">D</text><path d="M13200 3350
+L13200 3450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13300 3350
+L13200 3400
+L13300 3450
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13200 3400
+L13100 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13300 3400
+L13400 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="13400" y="4390"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13400, 4390)">SW?</text><text x="13250" y="4580"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13250, 4580)">SW_PUSH</text><path d="M13080 4450
+L13080 4440
+L13420 4440
+L13420 4450
+L13080 4450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13210 4440
+L13220 4410
+L13280 4410
+L13290 4440
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13150 4500
+L12950 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13350 4500
+L13550 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="13250" y="4650"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13250, 4650)">D?</text><text x="13250" y="4850"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13250, 4850)">D</text><path d="M13200 4700
+L13200 4800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13300 4700
+L13200 4750
+L13300 4800
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13200 4750
+L13100 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13300 4750
+L13400 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="13400" y="3740"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13400, 3740)">SW?</text><text x="13250" y="3930"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13250, 3930)">SW_PUSH</text><path d="M13080 3800
+L13080 3790
+L13420 3790
+L13420 3800
+L13080 3800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13210 3790
+L13220 3760
+L13280 3760
+L13290 3790
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13150 3850
+L12950 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13350 3850
+L13550 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="13250" y="4000"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13250, 4000)">D?</text><text x="13250" y="4200"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13250, 4200)">D</text><path d="M13200 4050
+L13200 4150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13300 4050
+L13200 4100
+L13300 4150
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13200 4100
+L13100 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13300 4100
+L13400 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="14500" y="2340"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 14500, 2340)">SW?</text><text x="14350" y="2530"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 14350, 2530)">SW_PUSH</text><path d="M14180 2400
+L14180 2390
+L14520 2390
+L14520 2400
+L14180 2400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M14310 2390
+L14320 2360
+L14380 2360
+L14390 2390
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M14250 2450
+L14050 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M14450 2450
+L14650 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="14350" y="2600"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 14350, 2600)">D?</text><text x="14350" y="2800"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 14350, 2800)">D</text><path d="M14300 2650
+L14300 2750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M14400 2650
+L14300 2700
+L14400 2750
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M14300 2700
+L14200 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M14400 2700
+L14500 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7100 2450
+L7200 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7200 2450
+L7200 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7200 2700
+L6950 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7100 1700
+L7200 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7200 1700
+L7200 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7200 1950
+L6950 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7100 3150
+L7200 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7200 3150
+L7200 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7200 3400
+L6950 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7100 4500
+L7200 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7200 4500
+L7200 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7200 4750
+L6950 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7100 3850
+L7200 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7200 3850
+L7200 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7200 4100
+L6950 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7100 5200
+L7200 5200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7200 5200
+L7200 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7200 5450
+L6950 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8200 2450
+L8300 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8300 2450
+L8300 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8300 2700
+L8050 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8200 1700
+L8300 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8300 1700
+L8300 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8300 1950
+L8050 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8200 3150
+L8300 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8300 3150
+L8300 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8300 3400
+L8050 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8200 4500
+L8300 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8300 4500
+L8300 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8300 4750
+L8050 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8200 3850
+L8300 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8300 3850
+L8300 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8300 4100
+L8050 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8200 5200
+L8300 5200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8300 5200
+L8300 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8300 5450
+L8050 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9250 2450
+L9350 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9350 2450
+L9350 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9350 2700
+L9100 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9250 1700
+L9350 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9350 1700
+L9350 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9350 1950
+L9100 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9250 3150
+L9350 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9350 3150
+L9350 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9350 3400
+L9100 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9250 4500
+L9350 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9350 4500
+L9350 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9350 4750
+L9100 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9250 3850
+L9350 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9350 3850
+L9350 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9350 4100
+L9100 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9250 5200
+L9350 5200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9350 5200
+L9350 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9350 5450
+L9100 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10350 2450
+L10450 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10450 2450
+L10450 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10450 2700
+L10200 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10350 1700
+L10450 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10450 1700
+L10450 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10450 1950
+L10200 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10350 3150
+L10450 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10450 3150
+L10450 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10450 3400
+L10200 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10350 4500
+L10450 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10450 4500
+L10450 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10450 4750
+L10200 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10350 3850
+L10450 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10450 3850
+L10450 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10450 4100
+L10200 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11400 2450
+L11500 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11500 2450
+L11500 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11500 2700
+L11250 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11400 1700
+L11500 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11500 1700
+L11500 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11500 1950
+L11250 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11400 3150
+L11500 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11500 3150
+L11500 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11500 3400
+L11250 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11400 4500
+L11500 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11500 4500
+L11500 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11500 4750
+L11250 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11400 3850
+L11500 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11500 3850
+L11500 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11500 4100
+L11250 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12500 2450
+L12600 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12600 2450
+L12600 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12600 2700
+L12350 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12500 1700
+L12600 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12600 1700
+L12600 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12600 1950
+L12350 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12500 3150
+L12600 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12600 3150
+L12600 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12600 3400
+L12350 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12500 4500
+L12600 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12600 4500
+L12600 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12600 4750
+L12350 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12500 3850
+L12600 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12600 3850
+L12600 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12600 4100
+L12350 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12500 5200
+L12600 5200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12600 5200
+L12600 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12600 5450
+L12350 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13550 2450
+L13650 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13650 2450
+L13650 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13650 2700
+L13400 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13550 1700
+L13650 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13650 1700
+L13650 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13650 1950
+L13400 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13550 3150
+L13650 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13650 3150
+L13650 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13650 3400
+L13400 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13550 4500
+L13650 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13650 4500
+L13650 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13650 4750
+L13400 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13550 3850
+L13650 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13650 3850
+L13650 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13650 4100
+L13400 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M14650 2450
+L14750 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M14750 2450
+L14750 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M14750 2700
+L14500 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M14050 2200
+L14050 2450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M5550 2200
+L14050 2200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M5550 2950
+L12950 2950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M5550 3600
+L12950 3600
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M5550 4300
+L12950 4300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M5550 4950
+L11900 4950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6300 1100
+L6300 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7450 1100
+L7450 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8500 1100
+L8500 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9600 1100
+L9600 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10650 1100
+L10650 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11750 1100
+L11750 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12800 1100
+L12800 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11900 1450
+L11900 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10800 1700
+L10800 1450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="10800" cy="1450" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9750 1700
+L9750 1450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="9750" cy="1450" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8650 1700
+L8650 1450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="8650" cy="1450" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7600 1700
+L7600 1450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="7600" cy="1450" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6500 1700
+L6500 1450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="6500" cy="1450" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6500 2450
+L6500 2200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="6500" cy="2200" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7600 2450
+L7600 2200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="7600" cy="2200" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8650 2450
+L8650 2200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="8650" cy="2200" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9750 2450
+L9750 2200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="9750" cy="2200" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9750 3150
+L9750 2950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="9750" cy="2950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8650 3150
+L8650 2950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="8650" cy="2950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7600 3150
+L7600 2950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="7600" cy="2950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6500 3150
+L6500 2950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="6500" cy="2950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6500 3850
+L6500 3600
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="6500" cy="3600" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7600 3850
+L7600 3600
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="7600" cy="3600" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6500 4500
+L6500 4300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="6500" cy="4300" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7600 4500
+L7600 4300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="7600" cy="4300" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6500 5200
+L6500 4950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="6500" cy="4950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7600 4950
+L7600 5200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="7600" cy="4950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8650 5200
+L8650 4950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="8650" cy="4950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="9750" cy="4950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9750 4500
+L9750 4300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="9750" cy="4300" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8650 4500
+L8650 4300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="8650" cy="4300" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8650 3850
+L8650 3600
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="8650" cy="3600" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9750 3850
+L9750 3600
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="9750" cy="3600" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10800 2450
+L10800 2200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="10800" cy="2200" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11900 2450
+L11900 2200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="11900" cy="2200" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12950 2450
+L12950 2200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="12950" cy="2200" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12950 2950
+L12950 3150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="12950" cy="2950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11900 3150
+L11900 2950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="11900" cy="2950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10800 3150
+L10800 2950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="10800" cy="2950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10800 3850
+L10800 3600
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="10800" cy="3600" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11900 3600
+L11900 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="11900" cy="3600" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12950 3600
+L12950 3850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="12950" cy="3600" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10800 4500
+L10800 4300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="10800" cy="4300" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11900 4500
+L11900 4300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="11900" cy="4300" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12950 4300
+L12950 4500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="12950" cy="4300" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="10800" cy="4950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11900 4950
+L11900 5200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="11900" cy="4950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6650 1950
+L6300 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="6300" cy="1950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6300 2700
+L6650 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="6300" cy="2700" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6650 3400
+L6300 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="6300" cy="3400" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6650 4100
+L6300 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="6300" cy="4100" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7750 1950
+L7450 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="7450" cy="1950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7750 2700
+L7450 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="7450" cy="2700" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7750 3400
+L7450 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="7450" cy="3400" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7750 4100
+L7450 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="7450" cy="4100" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6650 4750
+L6300 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="6300" cy="4750" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7750 4750
+L7450 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="7450" cy="4750" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M6300 5450
+L6650 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="6300" cy="5450" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M7450 5450
+L7750 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="7450" cy="5450" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8500 5450
+L8800 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="8500" cy="5450" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8800 4750
+L8500 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="8500" cy="4750" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8800 4100
+L8500 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="8500" cy="4100" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8800 3400
+L8500 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="8500" cy="3400" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8800 2700
+L8500 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="8500" cy="2700" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M8800 1950
+L8500 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="8500" cy="1950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9900 1950
+L9600 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="9600" cy="1950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9900 2700
+L9600 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="9600" cy="2700" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10950 1950
+L10650 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="10650" cy="1950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10950 2700
+L10650 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="10650" cy="2700" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9900 3400
+L9600 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="9600" cy="3400" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9900 4100
+L9600 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="9600" cy="4100" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M9600 4750
+L9900 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="9600" cy="4750" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10650 4750
+L10950 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="10650" cy="4750" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10950 4100
+L10650 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="10650" cy="4100" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M11750 5450
+L12050 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="11750" cy="5450" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12050 4750
+L11750 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="11750" cy="4750" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12050 4100
+L11750 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="11750" cy="4100" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M10950 3400
+L10650 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="10650" cy="3400" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12050 3400
+L11750 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="11750" cy="3400" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12050 2700
+L11750 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="11750" cy="2700" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12050 1950
+L11750 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="11750" cy="1950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13100 1950
+L12800 1950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="12800" cy="1950" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13100 2700
+L12800 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="12800" cy="2700" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13100 3400
+L12800 3400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="12800" cy="3400" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13100 4100
+L12800 4100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="12800" cy="4100" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12800 4750
+L13100 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="12800" cy="4750" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13900 2700
+L14200 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="5400" y="7500"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 5400, 7500)">ROW[0-7] is input pin and pulled-up</text><text x="5400" y="7572"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 5400, 7500)">COL[0-7] is output pin and normaly positive / scan by negative</text><text x="5400" y="7644"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 5400, 7500)"></text><path d="M5550 1450
+L12950 1450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="11900" cy="1450" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M12950 1450
+L12950 1700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M13900 1100
+L13900 2700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1576 1876
+L1624 1924
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1624 1876
+L1576 1924
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1576 2026
+L1624 2074
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1624 2026
+L1576 2074
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="5550" y="1450"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 5550, 1450)">ROW0</text><text x="5550" y="2200"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 5550, 2200)">ROW1</text><text x="5550" y="2950"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 5550, 2950)">ROW2</text><text x="5550" y="3600"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 5550, 3600)">ROW3</text><text x="5550" y="4300"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 5550, 4300)">ROW4</text><text x="5550" y="4950"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 5550, 4950)">ROW5</text><text x="6300" y="1100"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 6300, 1100)">COL0</text><text x="7450" y="1100"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 7450, 1100)">COL1</text><text x="8500" y="1100"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 8500, 1100)">COL2</text><text x="9600" y="1100"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 9600, 1100)">COL3</text><text x="10650" y="1100"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 10650, 1100)">COL4</text><text x="11750" y="1100"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 11750, 1100)">COL5</text><text x="12800" y="1100"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 12800, 1100)">COL6</text><text x="13900" y="1100"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 13900, 1100)">COL7</text><path d="M3200 2800
+L3200 3300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M3500 2650
+L3500 3300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="3500" y="3550"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 3500, 3550)">#PWR015</text><text x="3500" y="3450"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 3500, 3450)">GND</text><path d="M3500 3300
+L3500 3350
+L3550 3350
+L3500 3400
+L3450 3350
+L3500 3350
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="3496" y="3300"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 3496, 3300)">GND</text><text x="3504" y="3300"
+				text-anchor="middle"
+				dominant-baseline="text-before-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 3504, 3300)">1</text><path d="M3500 3300
+L3500 3300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="3200" y="3550"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 3200, 3550)">#PWR014</text><text x="3200" y="3450"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 3200, 3450)">GND</text><path d="M3200 3300
+L3200 3350
+L3250 3350
+L3200 3400
+L3150 3350
+L3200 3350
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="3196" y="3300"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 3196, 3300)">GND</text><text x="3204" y="3300"
+				text-anchor="middle"
+				dominant-baseline="text-before-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 3204, 3300)">1</text><path d="M3200 3300
+L3200 3300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2700" y="4650"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2700, 4650)">CONBUS1</text><text x="2800" y="5000"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2800, 5000)">CONN_01X06</text><path d="M2650 5245
+L2650 5255
+L2710 5255
+L2710 5245
+L2650 5245
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2650 5145
+L2650 5155
+L2710 5155
+L2710 5145
+L2650 5145
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2650 5045
+L2650 5055
+L2710 5055
+L2710 5045
+L2650 5045
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2650 4945
+L2650 4955
+L2710 4955
+L2710 4945
+L2650 4945
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2650 4845
+L2650 4855
+L2710 4855
+L2710 4845
+L2650 4845
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2650 4745
+L2650 4755
+L2710 4755
+L2710 4745
+L2650 4745
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2650 4700
+L2650 5300
+L2750 5300
+L2750 4700
+L2650 4700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2575" y="4754"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2575, 4754)">P1</text><path d="M2650 4750
+L2500 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2575" y="4854"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2575, 4854)">P2</text><path d="M2650 4850
+L2500 4850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2575" y="4954"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2575, 4954)">P3</text><path d="M2650 4950
+L2500 4950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2575" y="5054"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2575, 5054)">P4</text><path d="M2650 5050
+L2500 5050
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2575" y="5154"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2575, 5154)">P5</text><path d="M2650 5150
+L2500 5150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2575" y="5254"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2575, 5254)">P6</text><path d="M2650 5250
+L2500 5250
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2500 4850
+L2200 4850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2500 4950
+L2200 4950
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2050 5050
+L2500 5050
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2500 5150
+L2200 5150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2450" y="5650"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2450, 5650)">#PWR010</text><text x="2450" y="5550"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2450, 5550)">GND</text><path d="M2450 5400
+L2450 5450
+L2500 5450
+L2450 5500
+L2400 5450
+L2450 5450
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2446" y="5400"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2446, 5400)">GND</text><text x="2454" y="5400"
+				text-anchor="middle"
+				dominant-baseline="text-before-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2454, 5400)">1</text><path d="M2450 5400
+L2450 5400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2450" y="4800"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2450, 4800)">#PWR011</text><text x="2450" y="4500"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2450, 4500)">VDD</text><circle cx="2450" cy="4575" r="25"  style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2450 4650
+L2450 4600
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2446" y="4650"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2446, 4650)">VDD</text><text x="2454" y="4650"
+				text-anchor="middle"
+				dominant-baseline="text-before-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2454, 4650)">1</text><path d="M2450 4650
+L2450 4650
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2500 4750
+L2450 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2450 4750
+L2450 4650
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2500 5250
+L2450 5250
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2450 5250
+L2450 5400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="3500" y="6850"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 3500, 6850)">J1</text><text x="3500" y="6500"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 3500, 6500)">RJ45</text><path d="M2700 6250
+L2700 7050
+L3450 7050
+L3450 6250
+L2700 6250
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M3200 6475
+L3250 6475
+L3250 6475
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M3250 6525
+L3200 6525
+L3200 6525
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M3250 6575
+L3200 6575
+L3200 6575
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M3250 6625
+L3200 6625
+L3200 6625
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M3250 6675
+L3200 6675
+L3200 6675
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M3250 6725
+L3200 6725
+L3200 6725
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M3200 6775
+L3250 6775
+L3250 6775
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M3200 6825
+L3250 6825
+L3250 6825
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M3250 6425
+L3250 6875
+L2850 6875
+L2850 6775
+L2800 6775
+L2800 6725
+L2750 6725
+L2750 6575
+L2800 6575
+L2800 6525
+L2850 6525
+L2850 6425
+L3250 6425
+L3250 6425
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2550" y="6110"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2550, 6110)">~</text><text x="2546" y="6225"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2546, 6225)">~</text><path d="M2700 6300
+L2550 6300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2550" y="6210"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2550, 6210)">~</text><text x="2546" y="6325"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2546, 6325)">~</text><path d="M2700 6400
+L2550 6400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2550" y="6310"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2550, 6310)">~</text><text x="2546" y="6425"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2546, 6425)">~</text><path d="M2700 6500
+L2550 6500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2550" y="6410"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2550, 6410)">~</text><text x="2546" y="6525"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2546, 6525)">~</text><path d="M2700 6600
+L2550 6600
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2550" y="6510"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2550, 6510)">~</text><text x="2546" y="6625"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2546, 6625)">~</text><path d="M2700 6700
+L2550 6700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2550" y="6610"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2550, 6610)">~</text><text x="2546" y="6725"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2546, 6725)">~</text><path d="M2700 6800
+L2550 6800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2550" y="6710"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2550, 6710)">~</text><text x="2546" y="6825"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2546, 6825)">~</text><path d="M2700 6900
+L2550 6900
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2550" y="6810"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2550, 6810)">~</text><text x="2546" y="6925"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2546, 6925)">~</text><path d="M2700 7000
+L2550 7000
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="3160" y="7200"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 3160, 7200)">SHIELD</text><text x="3275" y="7204"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 3275, 7204)">SHIELD</text><path d="M3350 7050
+L3350 7200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2450" y="7350"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2450, 7350)">#PWR012</text><text x="2450" y="7250"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2450, 7250)">GND</text><path d="M2450 7100
+L2450 7150
+L2500 7150
+L2450 7200
+L2400 7150
+L2450 7150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2446" y="7100"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2446, 7100)">GND</text><text x="2454" y="7100"
+				text-anchor="middle"
+				dominant-baseline="text-before-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2454, 7100)">1</text><path d="M2450 7100
+L2450 7100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2450" y="6200"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2450, 6200)">#PWR013</text><text x="2450" y="5900"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2450, 5900)">VDD</text><circle cx="2450" cy="5975" r="25"  style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2450 6050
+L2450 6000
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2446" y="6050"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2446, 6050)">VDD</text><text x="2454" y="6050"
+				text-anchor="middle"
+				dominant-baseline="text-before-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2454, 6050)">1</text><path d="M2450 6050
+L2450 6050
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2550 6300
+L2450 6300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2450 6050
+L2450 6400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2550 7000
+L2450 7000
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2450 6900
+L2450 7100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2450 6400
+L2550 6400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="2450" cy="6300" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2550 6900
+L2450 6900
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="2450" cy="7000" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<text x="3350" y="7450"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 3350, 7450)">#PWR014</text><text x="3350" y="7350"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 3350, 7350)">GND</text><path d="M3350 7200
+L3350 7250
+L3400 7250
+L3350 7300
+L3300 7250
+L3350 7250
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="3346" y="7200"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 3346, 7200)">GND</text><text x="3354" y="7200"
+				text-anchor="middle"
+				dominant-baseline="text-before-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 3354, 7200)">1</text><path d="M3350 7200
+L3350 7200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1600" y="2650"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="bold"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1600, 2650)">SCL</text><text x="1600" y="2800"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="bold"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1600, 2800)">SDA</text><text x="2750" y="2350"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="bold"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2750, 2350)">INT</text><text x="4050" y="2500"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="bold"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 4050, 2500)">RESET</text><text x="2050" y="4900"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="bold"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2050, 4900)">SCL</text><text x="2050" y="4750"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="bold"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2050, 4750)">SDA</text><text x="2050" y="5050"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="bold"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2050, 5050)">RESET</text><text x="2050" y="5200"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="bold"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2050, 5200)">INT</text><path d="M2200 4850
+L2200 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2200 4750
+L2050 4750
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2200 4950
+L2200 4900
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2200 4900
+L2050 4900
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2200 5150
+L2200 5200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2200 5200
+L2050 5200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2550 6500
+L2250 6500
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2550 6600
+L2250 6600
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2100 6700
+L2550 6700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2550 6800
+L2250 6800
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2100" y="6550"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="bold"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2100, 6550)">SCL</text><text x="2100" y="6400"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="bold"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2100, 6400)">SDA</text><text x="2100" y="6700"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="bold"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2100, 6700)">RESET</text><text x="2100" y="6850"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="60"
+				font-weight="bold"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2100, 6850)">INT</text><path d="M2250 6500
+L2250 6400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2250 6400
+L2100 6400
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2250 6600
+L2250 6550
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2250 6550
+L2100 6550
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2250 6800
+L2250 6850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2250 6850
+L2100 6850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1175" y="2100"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1175, 2100)">C1</text><text x="1175" y="2300"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 1175, 2300)">C</text><path d="M1070 2230
+L1230 2230
+" style="stroke: #000000; fill: none; stroke-width: 20" stroke-linecap="round"/>
+<path d="M1070 2170
+L1230 2170
+" style="stroke: #000000; fill: none; stroke-width: 20" stroke-linecap="round"/>
+<text x="1150" y="2170"
+				text-anchor="end"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="40"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 1150, 2170)">~</text><path d="M1150 2160
+L1150 2050
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1150" y="2230"
+				text-anchor="start"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="40"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 1150, 2230)">~</text><path d="M1150 2240
+L1150 2350
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1000 2350
+L1600 2350
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="1150" cy="2350" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1600 2200
+L1350 2200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1350 2200
+L1350 2050
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1350 2050
+L1000 2050
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1000 2050
+L1000 1850
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<circle cx="1150" cy="2050" r="20"  style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<text x="2100" y="8400"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2100, 8400)">BT2</text><text x="2100" y="8500"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2100, 8500)">Battery</text><path d="M1910 8457
+L1910 8467
+L2090 8467
+L2090 8457
+L1910 8457
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1910 8400
+L1910 8410
+L2090 8410
+L2090 8400
+L1910 8400
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1938 8480
+L1938 8500
+L2058 8500
+L2058 8480
+L1938 8480
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1938 8423
+L1938 8443
+L2058 8443
+L2058 8423
+L1938 8423
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2020 8355
+L2060 8355
+" style="stroke: #000000; fill: none; stroke-width: 10" stroke-linecap="round"/>
+<path d="M2040 8335
+L2040 8375
+" style="stroke: #000000; fill: none; stroke-width: 10" stroke-linecap="round"/>
+<text x="1996" y="8350"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 1996, 8350)">~</text><path d="M2000 8400
+L2000 8300
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1996" y="8550"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 1996, 8550)">~</text><path d="M2000 8500
+L2000 8600
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2100" y="8800"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2100, 8800)">BT3</text><text x="2100" y="8900"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2100, 8900)">Battery</text><path d="M1910 8857
+L1910 8867
+L2090 8867
+L2090 8857
+L1910 8857
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1910 8800
+L1910 8810
+L2090 8810
+L2090 8800
+L1910 8800
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1938 8880
+L1938 8900
+L2058 8900
+L2058 8880
+L1938 8880
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M1938 8823
+L1938 8843
+L2058 8843
+L2058 8823
+L1938 8823
+" style="stroke: #000000; fill: #000000; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2020 8755
+L2060 8755
+" style="stroke: #000000; fill: none; stroke-width: 10" stroke-linecap="round"/>
+<path d="M2040 8735
+L2040 8775
+" style="stroke: #000000; fill: none; stroke-width: 10" stroke-linecap="round"/>
+<text x="1996" y="8750"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 1996, 8750)">~</text><path d="M2000 8800
+L2000 8700
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1996" y="8950"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 1996, 8950)">~</text><path d="M2000 8900
+L2000 9000
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2000" y="9350"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2000, 9350)">#PWR015</text><text x="2000" y="9250"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2000, 9250)">GND</text><path d="M2000 9100
+L2000 9150
+L2050 9150
+L2000 9200
+L1950 9150
+L2000 9150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1996" y="9100"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 1996, 9100)">GND</text><text x="2004" y="9100"
+				text-anchor="middle"
+				dominant-baseline="text-before-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2004, 9100)">1</text><path d="M2000 9100
+L2000 9100
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="2000" y="8350"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2000, 8350)">#PWR016</text><text x="2000" y="8050"
+				text-anchor="middle"
+				dominant-baseline="middle"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(0, 2000, 8050)">VDD</text><circle cx="2000" cy="8125" r="25"  style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2000 8200
+L2000 8150
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<text x="1996" y="8200"
+				text-anchor="middle"
+				dominant-baseline="text-after-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 1996, 8200)">VDD</text><text x="2004" y="8200"
+				text-anchor="middle"
+				dominant-baseline="text-before-edge"
+				font-family="monospace"
+				font-size="50"
+				font-weight="normal"
+				font-style="normal"
+				fill="#000000"
+				transform="rotate(-90, 2004, 8200)">1</text><path d="M2000 8200
+L2000 8200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2000 9100
+L2000 9000
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2000 8700
+L2000 8600
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+<path d="M2000 8300
+L2000 8200
+" style="stroke: #000000; fill: none; stroke-width: 6" stroke-linecap="round"/>
+</svg>

@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:KeyModule-R-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,12 +30,12 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:mylib
-LIBS:Root-cache
+LIBS:KeyModule-R-cache
 EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 3 4
+Sheet 3 2
 Title ""
 Date ""
 Rev ""
@@ -45,7 +46,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MCP23017 U1
+L MCP23017-RESCUE-KeyModule-R U1
 U 1 1 578B9FAB
 P 2450 2000
 F 0 "U1" H 2400 1100 60  0000 C CNN
@@ -2054,7 +2055,7 @@ Wire Wire Line
 Wire Wire Line
 	1600 2450 1600 2300
 $Comp
-L Battery BT4
+L Battery-RESCUE-KeyModule-R BT4
 U 1 1 579CB558
 P 2150 8950
 F 0 "BT4" H 2250 9000 50  0000 L CNN
@@ -2065,7 +2066,7 @@ F 3 "" V 2150 8990 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Battery BT5
+L Battery-RESCUE-KeyModule-R BT5
 U 1 1 579CB55F
 P 2150 9350
 F 0 "BT5" H 2250 9400 50  0000 L CNN
